@@ -1,4 +1,4 @@
-node ('node1') {
+node  {
     def mavenhome = tool name : "maven3.8.1"
     stage ('codecheckout') {
      git branch: 'development', credentialsId: '30de2c62-5afb-48c0-b5b8-5502660bbeec', url: 'https://github.com/mahaboobbasha1/maven-web-application.git'   
