@@ -9,7 +9,7 @@
 </head>
 </head>
 <body>
-<h1 align="center">Welcome to mb technical sollutions.......... </h1>
+<h1 align="center">Welcome to mb technical sollutions. </h1>
 <h1 align="center"> Welcome to mithun basha Software Solutions.......WDevOps with AWS on  10th July  2021  at 7 PM IST for new batch. , This is a weekdays batch  . MSS- Very bad Training center for DevOps with AWS in Maratha Halli and also for no Job Assitance Job Support also...Teaching no Real Time scnerios and use cases... Some fake guys are giving the fake reviews dont believe those guys..I am requesting everyone. Please give your reviews in FB and Google.</h1>
 <hr>
 <div style="text-align: center;">
